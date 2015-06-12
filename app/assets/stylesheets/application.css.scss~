@@ -1,18 +1,18 @@
-$lentil_yellow: #266666;
+$lentil_yellow: #990000;
 $lentil_blue: #6B0000;
 
 @import "lentil";
 
 body {
-    background-color: #4c0000;
+    background: image-url("shawu2.jpg") no-repeat fixed;
  	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 }
 .navbar-inner {
-    background: #AD3333 990000;
+    background: #AD3333;
 }
 div.header {
-	background: #6b0000;
+	background: #C26666;
 }

@@ -9,7 +9,7 @@ defaults: &defaults
   division_url: "http://localhost:3000"
   organization_name: "University name"
   meta_description: "A short description to include in the meta description tag"
-  base_image_file_dir: "/path/to/directory/where/images/will/be/harvested"
+  base_image_file_dir: "tmp/harvested"
   donor_agreement_text: "The text for your donor agreement that will be submitted as a comment"
   contact_email: "my_project@example.com"
   feed_description: "Description of this feed"
